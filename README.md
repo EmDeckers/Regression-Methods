@@ -1,5 +1,5 @@
 # Regression-Methods
-Comparing The Effectiveness of Two Regression Methods
+Comparing The Effectiveness of Two Regression Methods:
 Stochastic Gradient Descent vs. Multi Layer Perception Neural Networks
 
 In this project, I challenged myself to learn about machine learning algorithms and their implementation. 
